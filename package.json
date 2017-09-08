@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/dprasen/sr-rest-api/issues"
   },
-  "homepage": "https://github.com/dprasen/sr-rest-api#readme"
+  "homepage": "https://github.com/dprasen/sr-rest-api#readme",
+  "devDependencies": {
+    "nodemon": "^1.12.0"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.10"
+  }
 }
